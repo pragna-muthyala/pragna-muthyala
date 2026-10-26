@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pragna Muthyala 👋
 
-<!--
-**pragna-muthyala/pragna-muthyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+I'm a technology enthusiast interested in software development, artificial intelligence, and building creative solutions through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Programming: Python, Java
+- Database: SQL
+- Web Technologies: HTML, CSS, JavaScript
+- Tools: GitHub, Canva
+
+### 🎓 Education
+B.Tech – Artificial Intelligence & Machine Learning
+
+### 🌱 Currently Learning
+- Improving programming and problem-solving skills
+- Exploring AI and Machine Learning
+- Developing web-based applications
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pragna-muthyala-2b801237a/
